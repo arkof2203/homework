@@ -1,8 +1,11 @@
 ﻿using GamePrototype.Items.EconomicItems;
+using GamePrototype.Units;
 using GamePrototype.Utils;
 
 namespace GamePrototype.Items.EquipItems
 {
+
+   
     public abstract class EquipItem : Item
     {
         private uint _durability;

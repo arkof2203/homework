@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/6RKC1MsqthY9oVQlWhuF6ZlHx/wu9uOMk+KdDDxiXzbiE5TO8WvOEN39UE7Q3SbEJZJbscJSgrrgts4AsAVrQ==",
+  "dgSpecHash": "+O2OfUlbLFY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\GamePrototype\\GamePrototype.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Виктория\\Documents\\GamePrototype\\GamePrototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Виктория\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Виктория\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Виктория\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Виктория\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

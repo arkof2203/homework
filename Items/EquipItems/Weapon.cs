@@ -9,5 +9,13 @@ namespace GamePrototype.Items.EquipItems
         public uint Damage { get; }
 
         public override EquipSlot Slot => EquipSlot.Weapon;
+    
+
+    public void Sharpen()
+        {
+           
+        }
+
     }
+
 }

@@ -1,7 +1,14 @@
-﻿using GamePrototype.Items.EconomicItems;
+﻿using GamePrototype.Dungeon;
+using GamePrototype.Items.EconomicItems;
 
 namespace GamePrototype.Units
 {
+
+    public interface IDungeonBuilder
+    {
+        DungeonRoom BuildDungeon(Difficulty difficulty);
+    }
+
     public abstract class Unit
     {
         private const int INVENTORY_SIZE = 3;
